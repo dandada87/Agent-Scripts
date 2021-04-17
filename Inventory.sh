@@ -2,7 +2,7 @@
 
 #Aurthor: Daniel
 
-if
+if [ $? -eq 0]
 then 
 
 echo "success"
