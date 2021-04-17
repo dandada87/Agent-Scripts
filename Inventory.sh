@@ -1,5 +1,8 @@
 #!/bin/bash
 
-$Aurthor:
+#Aurthor: Daniel
+
 if
 then 
+
+echo "success"
