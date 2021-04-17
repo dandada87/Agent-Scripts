@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source entorno.conf
+source DANIEL RICHARDS
 
 FECHA=`date +"%Y-%m-%d"`
 LOG_FILE="/path/logDelete.log.$FECHA"
